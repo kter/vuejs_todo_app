@@ -10,6 +10,14 @@
             "StackName": "amplify-vuejstodoapp-dev-163611",
             "StackId": "arn:aws:cloudformation:ap-northeast-1:848738341109:stack/amplify-vuejstodoapp-dev-163611/00937200-7647-11ea-a0fd-0a9b6e22c78e",
             "AmplifyAppId": "dtpsysvhy02yn"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "dtpsysvhy02yn",
+                    "type": "cicd"
+                }
+            }
         }
     }
 }
